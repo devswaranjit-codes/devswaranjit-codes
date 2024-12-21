@@ -42,11 +42,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=devswaranjit-codes&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="500"/>
 </p>
 
----
-## 🏆 GitHub Contribution Graph
-[![Swaranjit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devswaranjit-codes&bg_color=1a1b27&color=ffffff&line=38f070&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 ## 🏆 GitHub Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=devswaranjit-codes&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
