@@ -61,7 +61,7 @@
 ---
 
 ## 🎯 Key Achievements
-* 2K+ contributions in 2024 📈
+* learned new things out of the box... in 2024
 
 ---
 ### 🌐 Visitor Count
