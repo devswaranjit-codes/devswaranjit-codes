@@ -62,11 +62,3 @@
 
 ## 🎯 Key Achievements
 * learned new things out of the box... in 2024
-
----
-### 🌐 Visitor Count
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=devswaranjit-codes&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
