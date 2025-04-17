@@ -41,8 +41,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=devswaranjit-codes&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="500"/>
 </p>
 
-## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=devswaranjit-codes&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 ## 📆 Contributions Calendar
